@@ -1,5 +1,4 @@
-# CompilerCases
-A Compiler implementation cases
+# Play With Compiler
 
 ## Operator precedence parser
 
